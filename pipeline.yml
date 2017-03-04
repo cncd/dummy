@@ -7,3 +7,4 @@ pipeline:
       - go version
       - sleep 10
       - go version
+      - ls -la
